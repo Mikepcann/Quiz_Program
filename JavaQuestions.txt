@@ -1,0 +1,19 @@
+4 Java
+MC What was the original name of the Java programming language?
+Ash,*Oak,CoffeeScript,D++
+FB Java operators that work on two operands are known as _______ operators.
+binary
+MC The most common platform-neutral product of a Java compiler is called:
+Source code,Machine code,*Java bytecode,JVM
+FB The best primitive data type to store the value 5192389.21 is _______.
+double
+MC Which of the following is a valid primitive data type in Java?
+*short,Integer,character,number
+MC Which of the following is a special object used with a Scanner to read keyboard input.
+input,System.out,Console,*System.in
+MC What is the result of this Java expression: (int)Math.rint(16.5)
+runtime error,compile error,*16,17
+MC What is the result of this Java expression: (20 % 4 == 0) 
+5,false,0,*true
+FB In Java, += is an example of an augmented _______ operator.
+assignment
